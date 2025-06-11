@@ -90,11 +90,11 @@ You can easily personalize the greeting by modifying these lines at the top of t
 
 * To change the name:
     ```cpp
-    #define NICKNAME "Sahabat"
+    #define NICKNAME "name"
     ```
 * To change the final wish message:
     ```cpp
-    #define WISH_TEXT "Semoga panjang umur, sehat selalu, dan semua keinginanmu tercapai! Amin."
+    #define WISH_TEXT "wish you want to say"
     ```
 * To change the GPIO pins used, modify the pin definition constants:
     ```cpp
